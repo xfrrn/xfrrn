@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Tang Zhixing (@FrierenBur)</h1>
+<h1 align="center">Hi there 👋, Frieren Here</h1>
 
 <p align="center">
   🎯 Passionate about Python programming and AIGC (Artificial Intelligence Generated Content), focusing on building practical tools and learning projects.
@@ -17,17 +17,15 @@
 ## 🔧 Skills & Tools
 
 - **Programming Languages**: Python, JavaScript
-- **Frameworks & Libraries**: Flask, Django
+- **Frameworks & Libraries**: FastAPI
 - **Tools**: Git, Docker, VS Code
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL
 
 ---
 
 ## 📂 Featured Projects
 
 - [**ComfyUI-learned**](https://github.com/FrierenBur/ComfyUI-learned): A project to learn how to write large events and create custom nodes.
-- [**Learn_NoteBook**](https://github.com/FrierenBur/Learn_NoteBook): Python learning notes and example code.
-- [**NetDisk**](https://github.com/FrierenBur/NetDisk): A network disk project aimed at providing file storage and management functions.
 - [**weixinapp_background**](https://github.com/FrierenBur/weixinapp_background): Backend development project for WeChat Mini Program.
 
 ---
@@ -63,9 +61,9 @@ Kotlin              3 hrs 29 mins   ▓░░░░░░░░░░░░░�
 
 ## 📫 Contact Information
 
-- 📧 Email: *Please fill in your email address*
-- 🌐 Blog: *Please fill in your blog link*
-- 💼 LinkedIn: *Please fill in your LinkedIn profile link*
+- 📧 Email: *1276179128@qq.com*
+- 🌐 Blog: *...*
+- 💼 LinkedIn: *...*
 
 ---
 
@@ -74,5 +72,3 @@ Kotlin              3 hrs 29 mins   ▓░░░░░░░░░░░░░�
 I believe in the power of continuous learning and collaboration. Let's create amazing projects together!
 
 ---
-
-*Note: Please fill in the placeholders in the contact information section according to your actual situation.*
