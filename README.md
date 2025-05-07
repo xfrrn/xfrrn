@@ -1,64 +1,64 @@
-<h1 align="center">👋 你好，我是 Tang Zhixing（@FrierenBur）</h1>
+<h1 align="center">Hi there 👋, I'm Tang Zhixing (@FrierenBur)</h1>
 
 <p align="center">
-  🎯 热衷于探索 Python 编程和 AIGC（人工智能生成内容）的开发者，专注于构建实用工具和学习型项目。
+  🎯 Passionate about Python programming and AIGC (Artificial Intelligence Generated Content), focusing on building practical tools and learning projects.
 </p>
 
 ---
 
-## 🧠 当前关注领域
+## 🧠 Current Focus Areas
 
-- 🐍 **Python 开发**：深入学习 Python，编写脚本和应用程序以自动化任务和解决问题。
-- 🧩 **ComfyUI**：探索用户界面设计，提升用户体验。
-- 🤖 **AIGC**：研究人工智能在内容生成方面的应用，尝试将 AI 技术融入实际项目。
-
----
-
-## 🔧 技能与工具
-
-- **编程语言**：Python、JavaScript
-- **框架与库**：FastAPI、Django
-- **工具**：Git、Docker、VS Code
-- **数据库**：MySQL、MongoDB
+- 🐍 **Python Development**: Deeply learning Python, writing scripts and applications to automate tasks and solve problems.
+- 🧩 **ComfyUI**: Exploring user interface design to enhance user experience.
+- 🤖 **AIGC**: Researching applications of artificial intelligence in content generation, attempting to integrate AI technology into practical projects.
 
 ---
 
-## 📂 项目精选
+## 🔧 Skills & Tools
 
-- [**ComfyUI-learned**](https://github.com/FrierenBur/ComfyUI-learned)：学习如何编写大型事件和创建自定义节点的项目。
-- [**Learn_NoteBook**](https://github.com/FrierenBur/Learn_NoteBook)：Python 学习笔记和示例代码。
-- [**NetDisk**](https://github.com/FrierenBur/NetDisk)：一个网络磁盘项目，旨在提供文件存储和管理功能。
-- [**weixinapp_background**](https://github.com/FrierenBur/weixinapp_background)：微信小程序的后台开发项目。
+- **Programming Languages**: Python, JavaScript
+- **Frameworks & Libraries**: Flask, Django
+- **Tools**: Git, Docker, VS Code
+- **Databases**: MySQL, MongoDB
 
 ---
 
-## 📊 本周开发时间统计
+## 📂 Featured Projects
+
+- [**ComfyUI-learned**](https://github.com/FrierenBur/ComfyUI-learned): A project to learn how to write large events and create custom nodes.
+- [**Learn_NoteBook**](https://github.com/FrierenBur/Learn_NoteBook): Python learning notes and example code.
+- [**NetDisk**](https://github.com/FrierenBur/NetDisk): A network disk project aimed at providing file storage and management functions.
+- [**weixinapp_background**](https://github.com/FrierenBur/weixinapp_background): Backend development project for WeChat Mini Program.
+
+---
+
+## 📊 Weekly Development Time Statistics
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## 📈 GitHub 统计
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrierenBur&show_icons=true&theme=radical" alt="FrierenBur 的 GitHub 统计数据" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrierenBur&show_icons=true&theme=radical" alt="FrierenBur's GitHub Stats" />
 </p>
 
 ---
 
-## 📫 联系方式
+## 📫 Contact Information
 
-- 📧 邮箱：*1276179128@qq.com*
-- 🌐 博客：*...*
-- 💼 LinkedIn：*...*
-
----
-
-## ⚡ 小趣事
-
-我相信持续学习和协作的力量。让我们一起创造令人惊叹的项目吧！
+- 📧 Email: *Please fill in your email address*
+- 🌐 Blog: *Please fill in your blog link*
+- 💼 LinkedIn: *Please fill in your LinkedIn profile link*
 
 ---
 
-*注：请根据实际情况填写上述联系方式中的占位符。*
+## ⚡ Fun Fact
+
+I believe in the power of continuous learning and collaboration. Let's create amazing projects together!
+
+---
+
+*Note: Please fill in the placeholders in the contact information section according to your actual situation.*
