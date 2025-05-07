@@ -1,4 +1,4 @@
-<h1 align="center">👋 你好，我是 FrierenBur</h1>
+<h1 align="center">👋 你好，我是 Tang Zhixing（@FrierenBur）</h1>
 
 <p align="center">
   🎯 热衷于探索 Python 编程和 AIGC（人工智能生成内容）的开发者，专注于构建实用工具和学习型项目。
@@ -9,6 +9,7 @@
 ## 🧠 当前关注领域
 
 - 🐍 **Python 开发**：深入学习 Python，编写脚本和应用程序以自动化任务和解决问题。
+- 🧩 **ComfyUI**：探索用户界面设计，提升用户体验。
 - 🤖 **AIGC**：研究人工智能在内容生成方面的应用，尝试将 AI 技术融入实际项目。
 
 ---
@@ -28,6 +29,13 @@
 - [**Learn_NoteBook**](https://github.com/FrierenBur/Learn_NoteBook)：Python 学习笔记和示例代码。
 - [**NetDisk**](https://github.com/FrierenBur/NetDisk)：一个网络磁盘项目，旨在提供文件存储和管理功能。
 - [**weixinapp_background**](https://github.com/FrierenBur/weixinapp_background)：微信小程序的后台开发项目。
+
+---
+
+## 📊 本周开发时间统计
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
