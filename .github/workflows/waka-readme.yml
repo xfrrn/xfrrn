@@ -1,0 +1,21 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 00:00 UTC 自动运行（北京时间早上 8 点）
+  workflow_dispatch:      # 允许手动触发
+
+jobs:
+  update-readme:
+    name: 更新 WakaTime 统计
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_LANGUAGE: true
+          SHOW_PROJECTS: true
+          SHOW_OS: true
