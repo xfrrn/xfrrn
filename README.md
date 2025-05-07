@@ -1,6 +1,8 @@
-# 👋 你好，我是 FrierenBur
+<h1 align="center">👋 你好，我是 FrierenBur</h1>
 
-🎯 一位热衷于探索 Python 编程和 AIGC（人工智能生成内容）的开发者，专注于构建实用工具和学习型项目。
+<p align="center">
+  🎯 热衷于探索 Python 编程和 AIGC（人工智能生成内容）的开发者，专注于构建实用工具和学习型项目。
+</p>
 
 ---
 
@@ -31,7 +33,9 @@
 
 ## 📈 GitHub 统计
 
-![FrierenBur 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=FrierenBur&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrierenBur&show_icons=true&theme=radical" alt="FrierenBur 的 GitHub 统计数据" />
+</p>
 
 ---
 
