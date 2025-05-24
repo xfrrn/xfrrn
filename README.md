@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, Frieren Here</h1>
+<h1 align="center">Hi there 👋, xfrrn Here</h1>
 
 <p align="center">
   🎯 Passionate about Python programming and AIGC (Artificial Intelligence Generated Content), focusing on building practical tools and learning projects.
