@@ -34,15 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2025 - To: 03 October 2025
+From: 05 September 2025 - To: 05 October 2025
 
-Total Time: 29 mins
+Total Time: 0 secs
 
-PHP          28 mins         ███████████████████░░░░░░   76.20 %
-Other        7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.13 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
