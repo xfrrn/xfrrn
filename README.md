@@ -30,6 +30,34 @@
 
 <br/>
 
+
+---
+
+
+## 📊 Weekly Development Time Statistics
+
+<!--START_SECTION:waka-->
+
+
+
+```txt
+
+From: 30 October 2025 - To: 29 November 2025
+
+
+
+Total Time: 0 secs
+
+
+
+No activity tracked
+
+```
+
+<!--END_SECTION:waka-->
+
+
+---
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrierenBur/FrierenBur/output/github-contribution-grid-snake-dark.svg">
