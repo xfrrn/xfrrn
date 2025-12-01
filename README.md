@@ -18,10 +18,10 @@
 <table>
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=FrierenBur&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Actify&show_icons=true&theme=radical&count_private=true" alt="Stats" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrierenBur&layout=compact&theme=radical" alt="Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Actify&layout=compact&theme=radical" alt="Languages" />
     </td>
   </tr>
 </table>
@@ -52,9 +52,9 @@ No activity tracked
 ---
 ### 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrierenBur/FrierenBur/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrierenBur/FrierenBur/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FrierenBur/FrierenBur/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ActifyBur/ActifyBur/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ActifyBur/ActifyBur/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ActifyBur/ActifyBur/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/>
