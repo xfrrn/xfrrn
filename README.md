@@ -39,11 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 01 December 2025
+From: 02 November 2025 - To: 02 December 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 40 mins
 
-No activity tracked
+TypeScript   25 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Python       24 mins         ██████░░░░░░░░░░░░░░░░░░░   23.82 %
+Bash         18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+Text         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Markdown     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
 ```
 
 <!--END_SECTION:waka-->
