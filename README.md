@@ -6,6 +6,13 @@
 
 <br/>
 
+### 👋 About Me
+
+I'm Actify, a developer focused on **Python**, **AI applications**, and **practical tools**.  
+I enjoy building products around **automation**, **AIGC workflows**, and **clean user experiences**.
+
+<br/>
+
 ### 🔧 Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,22 +22,27 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=xfrrn&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfrrn&layout=compact&theme=radical" alt="Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,js,pytorch,mysql,docker,git,vscode,linux&perline=9" />
+  </a>
+</p>
 
 <br/>
 
 
+### 🚀 What I'm Working On
+
+<div align="left">
+
+- Building practical AI-powered tools
+- Exploring FastAPI-based backend systems
+- Designing AIGC and workflow-driven products
+- Improving product UX for creator and automation scenarios
+
+</div>
+
+<br/>
 ---
 
 
@@ -54,7 +66,7 @@ Other        2 hrs 28 mins         █░░░░░░░░░░░░░░
 
 
 ---
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xfrrn/xfrrn/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xfrrn/xfrrn/output/github-contribution-grid-snake.svg">
@@ -67,7 +79,7 @@ Other        2 hrs 28 mins         █░░░░░░░░░░░░░░
 ---
 
 <p align="center">
-  <i>Let's create amazing projects together!</i>
+  <i>Building useful things, one project at a time.</i>
 </p>
 
 </div>
