@@ -22,14 +22,6 @@ I enjoy building products around **automation**, **AIGC workflows**, and **clean
 
 <br/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,js,pytorch,mysql,docker,git,vscode,linux&perline=9" />
-  </a>
-</p>
-
-<br/>
-
 
 ### 🚀 What I'm Working On
 
@@ -43,14 +35,6 @@ I enjoy building products around **automation**, **AIGC workflows**, and **clean
 </div>
 
 <br/>
----
----
-
-## 🏆 GitHub Rank
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xfrrn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophy" />
-</p>
 
 ---
 
