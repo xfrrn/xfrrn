@@ -43,15 +43,15 @@ I enjoy building products around **automation**, **AIGC workflows**, and **clean
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2026 - To: 04 April 2026
+From: 06 March 2026 - To: 05 April 2026
 
-Total Time: 104 hrs 53 mins
+Total Time: 104 hrs 12 mins
 
-Python                     26 hrs 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.10 %
-TypeScript                 20 hrs 53 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
-Markdown                   16 hrs 29 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-JavaScript                 10 hrs 17 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Bash                       8 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Python                     26 hrs 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+TypeScript                 20 hrs 39 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+Markdown                   16 hrs 14 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+JavaScript                 10 hrs 18 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Other                      8 hrs 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 ```
 
 <!--END_SECTION:waka-->
