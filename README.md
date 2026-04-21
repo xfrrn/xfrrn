@@ -43,8 +43,8 @@ _“Building products that empower creators, one script at a time.”_
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xfrrn&show_icons=true&hide_border=true&hide_rank=true" alt="Actify's GitHub Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfrrn&layout=compact&hide_border=true" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xfrrn&show_icons=true&hide_rank=true" alt="Actify's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfrrn&layout=compact" alt="Top Languages" height="200" />
 </p>
 
 <br/>
@@ -75,18 +75,18 @@ Bash                       7 hrs 41 mins         █▒░░░░░░░░�
 
 <p align="center">
   <a href="https://github.com/xfrrn/StarMind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=StarMind&hide_border=true" alt="StarMind" height="130" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=StarMind" alt="StarMind" height="130" />
   </a>
   <a href="https://github.com/xfrrn/Wechat_clawler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=Wechat_clawler&hide_border=true" alt="Wechat_clawler" height="130" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=Wechat_clawler" alt="Wechat_clawler" height="130" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/xfrrn/SoloHandle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=SoloHandle&hide_border=true" alt="SoloHandle" height="130" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=SoloHandle" alt="SoloHandle" height="130" />
   </a>
   <a href="https://github.com/xfrrn/Audigest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=Audigest&hide_border=true" alt="Audigest" height="130" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=Audigest" alt="Audigest" height="130" />
   </a>
 </p>
 
