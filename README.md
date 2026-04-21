@@ -21,6 +21,8 @@
 
 ### 👋 About Me
 
+<div align="left">
+
 Hi there! I'm **Actify**, a developer passionate about **Python, AIGC**, and building highly practical tools.
 
 I focus on automating repetitive tasks and designing workflows that bridge complex technology with clean user experiences. Here is what I do:
@@ -29,6 +31,8 @@ I focus on automating repetitive tasks and designing workflows that bridge compl
 - 🕸️ **Automation & Scraping:** Developing robust scripts like **Wechat_clawler** to automate workflows and extract structured data.
 - 🛠️ **Practical Utilities:** Creating all-in-one solutions like **MediaAllInOne** to handle daily digital and media processing needs.
 - 🚀 **Backend & ComfyUI:** Architecting fast backends with **FastAPI** and experimenting with cutting-edge **ComfyUI** visual workflows.
+
+</div>
 
 _“Building products that empower creators, one script at a time.”_
 
@@ -39,8 +43,8 @@ _“Building products that empower creators, one script at a time.”_
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xfrrn&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Actify's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfrrn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xfrrn&show_icons=true&hide_border=true&hide_rank=true" alt="Actify's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfrrn&layout=compact&hide_border=true" alt="Top Languages" height="200" />
 </p>
 
 <br/>
@@ -71,18 +75,18 @@ Bash                       7 hrs 41 mins         █▒░░░░░░░░�
 
 <p align="center">
   <a href="https://github.com/xfrrn/StarMind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=StarMind&theme=tokyonight&hide_border=true" alt="StarMind" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=StarMind&hide_border=true" alt="StarMind" height="130" />
   </a>
   <a href="https://github.com/xfrrn/Wechat_clawler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=Wechat_clawler&theme=tokyonight&hide_border=true" alt="Wechat_clawler" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=Wechat_clawler&hide_border=true" alt="Wechat_clawler" height="130" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/xfrrn/SoloHandle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=SoloHandle&theme=tokyonight&hide_border=true" alt="SoloHandle" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=SoloHandle&hide_border=true" alt="SoloHandle" height="130" />
   </a>
   <a href="https://github.com/xfrrn/Audigest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=Audigest&theme=tokyonight&hide_border=true" alt="Audigest" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfrrn&repo=Audigest&hide_border=true" alt="Audigest" height="130" />
   </a>
 </p>
 
