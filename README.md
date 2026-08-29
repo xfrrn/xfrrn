@@ -56,15 +56,15 @@ _“Building products that empower creators, one script at a time.”_
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2026 - To: 26 August 2026
+From: 28 July 2026 - To: 27 August 2026
 
-Total Time: 137 hrs 2 mins
+Total Time: 131 hrs 4 mins
 
-TypeScript      48 hrs 29 mins        ████████▒░░░░░░░░░░░░░░░░   33.84 %
-Markdown        40 hrs 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.51 %
-Go              11 hrs 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Python          8 hrs 33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Other           6 hrs 15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+TypeScript      46 hrs 59 mins        ████████▓░░░░░░░░░░░░░░░░   34.22 %
+Markdown        38 hrs 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 %
+Go              11 hrs 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Python          7 hrs 10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Other           6 hrs 15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
 ```
 
 <!--END_SECTION:waka-->
